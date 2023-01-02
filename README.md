@@ -1,18 +1,17 @@
 # JavaScript Millionaire CLI Tool
 
-A super fancy CLI tool. 
+A fancy CLI tool. 
 
-Watch the full [Node.js CLI Tutorial](https://youtu.be/_oHByo8tiEY) video on YouTube. 
+This is a project showing experience with Node and CLI.
+
+## Screenshots:
+![Screenshot](Image/Screenshot.png)
 
 
+## Built with:
+Node.JS
 
-## Take the Quiz
-
-```
-npx firequiz
-```
-
-## Packages Used
+### Packages Used
 
 [chalk](https://github.com/chalk/chalk) | 
 [inquirer](https://github.com/SBoudrias/Inquirer.js) |
@@ -21,7 +20,21 @@ npx firequiz
 [figlet](https://github.com/patorjk/figlet.js) |
 [nanospinner](https://github.com/usmanyunusov/nanospinner)
 
+## How to use:
 
-```sh
-npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
 ```
+npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
+node .
+```
+
+## Contribute:
+
+Feel free to a fork the repo or notify me of any issues that are present
+
+## Credit:
+
+Watch the full [Node.js CLI Tutorial](https://youtu.be/_oHByo8tiEY) video on YouTube. 
+
+## License:
+
+MIT © BChainDev
