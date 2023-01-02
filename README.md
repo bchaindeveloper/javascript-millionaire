@@ -4,10 +4,6 @@ A fancy CLI tool.
 
 This is a project showing experience with Node and CLI.
 
-## Screenshots:
-![Screenshot](Image/Screenshot.png)
-
-
 ## Built with:
 Node.JS
 
